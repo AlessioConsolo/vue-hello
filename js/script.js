@@ -6,4 +6,4 @@ createApp({
       message: "Hello Vue!",
     };
   },
-}).mount("#app");
+}).mount("#message");
